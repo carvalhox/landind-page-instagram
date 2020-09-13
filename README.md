@@ -21,6 +21,8 @@ Link to the course:
   <li><a href="https://web.digitalinnovation.one/project/recriando-a-pagina-inicial-do-instagram/learning/35838848-f99e-473c-9201-816d046ebf12?back=/track/html-web-developer&bootcamp_id=9fb3f492-ea99-4055-82cb-c364f18706ec">Recriando a página inicial do Instagram</a></li>
 </ul>
 
+You can check the website fully working <a href="https://carvalhox.github.io/landind-page-instagram/">here</a>.
+
 ## :page_facing_up: Instagram Web Login page
 
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/34722707/93002332-a8492500-f50c-11ea-9f04-b359c8db4ca0.gif)
