@@ -8,7 +8,7 @@ Instagram Web Login Page
 
 <h3 align="center">  
   <a href="#information_source-about">About</a> | 
-   <a href="#page_facing_up-instagram-web-login-page">Overview</a> |
+   <a href="#page_facing_up-overview">Overview</a> |
     <a href="#link-live-version">Live Version</a> |
   <a href="#desktop_computer-technologies">Technologies</a>
 </h3>
