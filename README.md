@@ -8,7 +8,8 @@ Instagram Web Login Page
 
 <h3 align="center">  
   <a href="#information_source-about">About</a> | 
-   <a href="#page_facing_up-instagram-web-login-page">Instagram Web Login page</a> |
+   <a href="#page_facing_up-instagram-web-login-page">Overview</a> |
+    <a href="#link-live-version">Live Version</a> |
   <a href="#desktop_computer-technologies">Technologies</a>
 </h3>
 
@@ -21,11 +22,15 @@ Link to the course:
   <li><a href="https://web.digitalinnovation.one/project/recriando-a-pagina-inicial-do-instagram/learning/35838848-f99e-473c-9201-816d046ebf12?back=/track/html-web-developer&bootcamp_id=9fb3f492-ea99-4055-82cb-c364f18706ec">Recriando a página inicial do Instagram</a></li>
 </ul>
 
-You can check the website fully working <a href="https://carvalhox.github.io/landind-page-instagram/">here</a>.
-
-## :page_facing_up: Instagram Web Login page
+## :page_facing_up: Overview
 
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/34722707/93002332-a8492500-f50c-11ea-9f04-b359c8db4ca0.gif)
+
+
+## :link: Live Version
+
+
+You can check the website fully working <a href="https://instagram-loginpage.netlify.app/">here.</a>
 
 ## :desktop_computer: Technologies
 <ul>
